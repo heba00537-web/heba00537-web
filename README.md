@@ -1,6 +1,8 @@
 # 💫 About Me:
-QA testing and software quality improvement.<br>QA, test automation, and open-source projects.<br>manual, automation and Playwright.<br>Generative AI for Software Testing.<br>Manual Testing, API Testing, SQL, Postman & Selenium.<br>I enjoy finding bugs before users do! 🐞
-
+- 👩‍💻 **Software Quality Assurance Engineer** passionate about building high-quality software products.
+- 🔍 Specialized in **Manual Testing**, **API Testing**, and **Database Validation (SQL)**.
+- ⚡ Experienced in **Test Automation** using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.
+- 🐞 Enthusiastic about finding bugs before users do and optimizing testing workflows!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/heba-hassan-69b15b350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heba00537@gmail.com) 
